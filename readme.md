@@ -1,52 +1,67 @@
-This unit is about introduction to software engineering.
+This unit is about introduction to an agile development process called Scrum and introduction to a programming language called Python.
 
-Please go through the video and slides first and then get familiar with git.
+Please go through the video and slides first.
+Please install the Python runtime before the official classtime.
 
-### Introduction to Software Engineering
+## Introduction to Scrum
 
-Video1: Software and software crisis
+Scrum is an agile development process aiming to deliver business value over shortest time.
+It's widely used and often mixed with other agile development process.
 
-https://www.acfun.cn/v/ac12917744
+Video 1: Introduction to Scrum
 
-Video2: Software engineering
+https://www.acfun.cn/v/ac13145403
 
-https://www.acfun.cn/v/ac12931602
+Video 2: The Sprint in Scrum
 
-Slide: SW01_intro.pdf
+https://www.acfun.cn/v/ac13145466
 
+Video 3: Roles, Meetings, and Documents in Scrum
 
-### Introduction to Git
+https://www.acfun.cn/v/ac13145616
 
+Slide: English-Redistributable-Intro-Scrum.pdf
 
-Video1: How to install Git on windows
+## Introduction to Python
 
-https://www.acfun.cn/v/ac12933284
+Install Python using miniconda
 
-Video2: Introduction to Git workflow
+https://docs.conda.io/en/latest/miniconda.html
 
-https://www.acfun.cn/v/ac12934862
+Video 1: Variables
 
-Video3: Initialize Git repository
+https://www.acfun.cn/v/ac13164403_1
 
-https://www.acfun.cn/v/ac12944786
+Video 2: Control flow, branching
 
-Video4: Interact with remote
+https://www.acfun.cn/v/ac13164403_2
 
-https://www.acfun.cn/v/ac12945801
+video 3: List, tuple, and dict
 
-Video5: Branch and Merge
+https://www.acfun.cn/v/ac13164403_3
 
-https://www.acfun.cn/v/ac12946212
+Video 4: Control flow, loop
 
-The same set of video could also be found on bilibili.com.
+https://www.acfun.cn/v/ac13164403_4
+
+Video 5: Function and Module
+
+https://www.acfun.cn/v/ac13164403_5
+
 
 ### Exercise
 
-1. Create account on Github/Gitlab.
-2. Use the Git command learned to grab content from https://github.com/pipehappy1/SES2020spring to your repository on Github/Gitlab.
-3. Comment on the issue https://github.com/pipehappy1/SES2020spring/issues/1 with the link to your repository.
+1. Write a Python code to count the words in this readme.
+2. Use Git to commit your code in unit2 directory and push to your repository. Also comment on the issue with the link to your code.
 
-### Reference
+## Reference
 
-1. Ian Sommerville, Software Engineering (10th Edition), 2015.
-2. Scott Chacon, Ben Straub, Pro Git (2nd Edition), 2014.
+1. Kenneth S. Rubin, Essential Scrum: A Practical Guide to the Most Popular Agile Process, 2012
+2. Eric Matthes, Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming  (2nd Edition), 2019
+3. Mark Pilgrim, Dive Into Python 3, 2009
+
+## Notes
+
+1. The same set of video could also be found on bilibili.com.
+2. Students without computers at your disposal are suggested to read till chapter 7 of "Dive Into Python 3", which is available online at https://diveintopython3.problemsolving.io, or section 1, 2, 3, 4, 5, 9 of Official Python tutorial at https://docs.python.org/3/tutorial/.
+3. This unit doesn't require students to team up.
